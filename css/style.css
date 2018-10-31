@@ -6,7 +6,7 @@ body{
 
 .allContainer{
     width: 300px;
-    max-width: 380px;
+    max-width: 30%;
     width: 100%;
     margin: 0 auto;
     border: 1px solid black;
@@ -26,24 +26,24 @@ body{
 }
 
 .line__one {
-    font-size: 150px;
+    font-size: 12vw;
 }
 
 .line__two {
-    font-size: 110px;
+    font-size: 8vw;
 }
 
 .line__three{
-    font-size: 70px;
+    font-size: 6vw;
 }
 
 .line__four{
-    font-size: 55px;
+    font-size: 5.5vw;
 }
 .line__five{
-    font-size: 45px;
+    font-size: 3vw;
 }
 
 .line__six{
-    font-size: 30px;
+    font-size: 2vw;
 }
