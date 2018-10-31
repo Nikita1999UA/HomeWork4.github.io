@@ -1,0 +1,49 @@
+body{
+    font-family: Helvetica;
+    font-weight: bold;
+    background-color: rgba(165, 163, 163, 0.5);
+}
+
+.allContainer{
+    width: 300px;
+    max-width: 380px;
+    width: 100%;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 15px;
+    background-color: #ffff;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 300px;
+    max-width: 350px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.line__one {
+    font-size: 150px;
+}
+
+.line__two {
+    font-size: 110px;
+}
+
+.line__three{
+    font-size: 70px;
+}
+
+.line__four{
+    font-size: 55px;
+}
+.line__five{
+    font-size: 45px;
+}
+
+.line__six{
+    font-size: 30px;
+}
